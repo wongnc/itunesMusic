@@ -1,0 +1,66 @@
+#body{
+	background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+
+}
+
+#button{
+	font-size: 25px;
+}
+
+#title{
+	text-align:center;
+	font-family: 'Monoton', cursive;
+	color: #11ABFF;
+	font-size:60px;
+}
+
+#input{
+	height: 40px;
+	font-size: 25px;
+}
+
+#button{
+	display:block;
+	margin:auto;
+}
+
+div h3{
+	margin-top: 20px;
+	color:white;
+	background-color:#01B2FD;
+	/*red color:#FD051E;*/
+	text-align:center;
+	font-size: 25px;
+	font-family: 'Raleway', sans-serif;
+}
+
+div h4{
+	color:#FD051E;
+	text-align:center;
+	font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+}
+
+div img{
+	display:block;
+	margin:auto;
+}
+
+.col-lg-4 {
+	min-height: 350px;
+	border: 1px solid; 
+	border-color:white;
+	background-color:lightgrey;
+	/*border-color: #11ABFF;*/
+}
+
+div audio{
+	margin-top: 30px;
+	display:table;
+	margin-left: auto;
+	margin-right: auto;
+}
